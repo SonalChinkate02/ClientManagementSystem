@@ -26,11 +26,16 @@ This is a Client Management System built using Django and Django REST Framework.
 Clone this repository to your local machine using the following command:
 
 git clone https://github.com/SonalChinkate02/ClientManagementSystem.git
+
+
 2. Install Dependencies
 Navigate to the project directory and install the required Python packages using pip:
 
 cd ClientManagementSystem
+
 pip install -r requirements.txt
+
+
 3. Set Up the Database
 Make sure you have MySQL installed and running. Create a new database for the project.
 
